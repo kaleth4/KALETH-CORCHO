@@ -39,7 +39,7 @@
 ### 📬 Contacto
 ¿Tienes un proyecto interesante o una consulta técnica?
 <br />
-🔗 [sitio web]([https://kaleth4.github.io/](https://github.com/kaleth4/KALETH-CORCHO/edit/main/README.md)
+🔗 [sitio web](https://github.com/kaleth4/KALETH-CORCHO/edit/main/PORTFOLIO.html)
 <a href="mailto:k4ledcb@gmail.com">
   <img src="https://img.shields.io/badge/Enviar_Mensaje-0078D4?style=for-the-badge&logo=maildotru&logoColor=white" />
 </a>
